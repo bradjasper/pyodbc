@@ -1,3 +1,5 @@
+**Why is this forked?**
+This is a fork of pyodbc that forces Mac to use odbc rather than iODBC. You probably don't want to use this unless you had trouble getting pyodbc working
 
 Overview
 ========
